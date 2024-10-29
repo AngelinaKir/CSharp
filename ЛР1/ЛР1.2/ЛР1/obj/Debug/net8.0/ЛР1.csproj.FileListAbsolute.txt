@@ -1,0 +1,14 @@
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\bin\Debug\net8.0\ЛР1.exe
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\bin\Debug\net8.0\ЛР1.deps.json
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\bin\Debug\net8.0\ЛР1.runtimeconfig.json
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\bin\Debug\net8.0\ЛР1.dll
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\bin\Debug\net8.0\ЛР1.pdb
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.GeneratedMSBuildEditorConfig.editorconfig
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.AssemblyInfoInputs.cache
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.AssemblyInfo.cs
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.csproj.CoreCompileInputs.cache
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.dll
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\refint\ЛР1.dll
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.pdb
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ЛР1.genruntimeconfig.cache
+D:\КП и ЯП\ЛР1\ЛР1.2\ЛР1\obj\Debug\net8.0\ref\ЛР1.dll

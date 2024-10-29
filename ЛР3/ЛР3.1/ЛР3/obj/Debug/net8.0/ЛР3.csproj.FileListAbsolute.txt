@@ -1,0 +1,14 @@
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\bin\Debug\net8.0\ЛР3.exe
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\bin\Debug\net8.0\ЛР3.deps.json
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\bin\Debug\net8.0\ЛР3.runtimeconfig.json
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\bin\Debug\net8.0\ЛР3.dll
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\bin\Debug\net8.0\ЛР3.pdb
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.GeneratedMSBuildEditorConfig.editorconfig
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.AssemblyInfoInputs.cache
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.AssemblyInfo.cs
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.csproj.CoreCompileInputs.cache
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.dll
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\refint\ЛР3.dll
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.pdb
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ЛР3.genruntimeconfig.cache
+D:\все\КП и ЯП\ЛР3\ЛР3.1\ЛР3\obj\Debug\net8.0\ref\ЛР3.dll

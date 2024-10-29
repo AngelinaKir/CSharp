@@ -1,0 +1,14 @@
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.GeneratedMSBuildEditorConfig.editorconfig
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.AssemblyInfoInputs.cache
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.AssemblyInfo.cs
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.csproj.CoreCompileInputs.cache
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\bin\Debug\net8.0\ЛР4.exe
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\bin\Debug\net8.0\ЛР4.deps.json
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\bin\Debug\net8.0\ЛР4.runtimeconfig.json
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\bin\Debug\net8.0\ЛР4.dll
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\bin\Debug\net8.0\ЛР4.pdb
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.dll
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\refint\ЛР4.dll
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.pdb
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ЛР4.genruntimeconfig.cache
+D:\все\КП и ЯП\ЛР4\ЛР4.2\ЛР4\obj\Debug\net8.0\ref\ЛР4.dll
