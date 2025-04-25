@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATTENTION</title>
+    <style>
+        body {
+            margin: 20px;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 4em;
+            font-weight: bold;
+            letter-spacing: 5px;
+            text-align: left;
+            margin-bottom: 5px;
+        }
+        #date {
+            font-size: 1em;
+            text-align: left;
+            margin-top: 5px;
+            font-weight: normal;
+        }
+        .info {
+            font-size: 1.2em;
+            width: 80%;
+            text-align: center;
+            margin: 40px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>ATTENTION</h1>
+    <p id="date"></p>
+    <div class="info">
+        <p>Я - законопослушный гражданин Республики Беларусь. Никогда не делал, не делаю и не собираюсь делать что-то противоречащее закону РБ.</p>
+        <p>Ко всем чатам, которые есть у меня на аккаунте, я не имею никакого отношения, туда меня добавил СпамБот.</p>
+        <p>Номер, который используется у меня в Telegram, не имеет никакого отношения к моему настоящему номеру телефона.</p>
+    </div>
+
+    <script>
+        document.getElementById("date").textContent = new Date().toLocaleDateString("ru-RU");
+    </script>
+</body>
+</html>
